@@ -9,6 +9,11 @@ body {
   font-weight: 400;
   line-height: 30.5px;
   min-height: 100%;
+  /* list-style: none; */
+}
+
+body ul {
+  list-style: none;
 }
 
 a {

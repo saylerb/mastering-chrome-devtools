@@ -22,6 +22,7 @@ html {
 
 body {
   margin: 0;
+  background-color: hsl(0, 0%, 93%);
 }
 
 /**
@@ -30,7 +31,7 @@ body {
    */
 
 h1 {
-  font-size: 2em;
+  font-size: 50px;
   margin: 0.67em 0;
 }
 
